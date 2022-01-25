@@ -1,3 +1,4 @@
-``` java
-SELECT from Canada;
+``` sql
+SELECT population FROM world
+  WHERE name = 'Germany';
 ```
